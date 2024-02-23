@@ -1,4 +1,4 @@
-package implementation.group.collections.list;
+package implementation.group.collections.list.arraylist;
 
 
 //Write a Java program to create an array list,
